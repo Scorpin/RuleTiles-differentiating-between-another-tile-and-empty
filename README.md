@@ -1,4 +1,4 @@
-# RuleTiles-differentiating-between-another-tile-and-empty
+# RuleTiles differentiating between another tile and empty
 
 Modified version of the "2d-extras" package from Unity-Technologies: https://github.com/Unity-Technologies/2d-extras
 Tested only in the package version for Unity 2019.2.0f1. I can't take responsability for further versions.
